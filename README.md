@@ -1,4 +1,4 @@
-# 🎵 Mateus Music - Desafio de Desenvolvimento Web
+# 🎵 BIEL Music - Desafio de Desenvolvimento Web
 
 ## 🎯 Contexto do Projeto
 
